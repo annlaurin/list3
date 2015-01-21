@@ -1,2 +1,4 @@
 "","IP","X_","age","audio","destination","dominant.hand","education","email","experimentName","foreign.lang","hearing","native.lang","profession","sex","sugg","time","userCode","userFileName"
-"1","85.65.49.121",1418412130632,28,"laptop.speakers","demographics.csv","right","higher"," imurovolov@mail.ru","HSElist3Dec12","Английский‚ Иврит‚ Немецкий.","hearing.ok","Русский","фотограф‚ Археолог.","male",NA,2014-12-12 11:22:11,"ANJ6",6
+"1","85.65.49.121",1418412130632,28,"laptop.speakers","demographics.csv","right","higher"," imurovolov@mail.ru","HSElist3Dec12","Английский‚ Иврит‚ Немецкий.","hearing.ok","Русский","фотограф‚ Археолог.","male",NA,NA,"ANJ6",6
+"2","95.134.236.233",1420486895494,17,"headphones","demographics.csv","right","PhD","anna_matveeva_97@mail.ua","HSElist3Dec12","нет","hearing.ok","Украинский ","","female",NA,NA,"PZA22",22
+"3","2.92.163.1",1421049967044,34,"headphones","demographics.csv","right","higher","noddy@rambler.ru","HSElist3Dec12","Английский","hearing.ok","Русский","Тексты ","female",NA,NA,"LIQ26",26
